@@ -1,6 +1,6 @@
 ---
 title: "Lab 08 - Predicting rain"
-author: "INSERT NAME HERE"
+author: "Sakari"
 date: "`r Sys.Date()`"
 output: html_document
 ---
